@@ -1,4 +1,4 @@
-import path from 'path'
+const path = require('path');
 
 module.exports = {
 	entry: {
@@ -24,8 +24,5 @@ module.exports = {
 				test: /\.ts$/
 			}
 		]
-	},
-	node: {
-		__dirname: true
 	}
 }
