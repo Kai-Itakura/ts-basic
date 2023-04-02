@@ -40,7 +40,11 @@
 // tupleSample()
 
 /* 07.ジェネリック型とポリモーフィズム */
-import genericsBasicSample from './generics/basic'
-import genericAdvanceSample from './generics/advance'
-genericsBasicSample()
-genericAdvanceSample()
+// import genericsBasicSample from './generics/basic'
+// import genericAdvanceSample from './generics/advance'
+// genericsBasicSample()
+// genericAdvanceSample()
+
+/* インターフェイス */
+import interfaceSample from './interface/interface'
+interfaceSample()
